@@ -2,16 +2,13 @@
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
-# 📁 Acesso ao projeto
+# 📁 Código Fonte
 
-Abaixo, é possível acessar o código fonte do projeto ou baixá-lo.
+#### ![HTML](https://img.shields.io/badge/HTML5-orange) [HTML](https://github.com/guisacilotto/OutOfTunePiano/blob/main/index.html) 
 
+#### ![CSS](https://img.shields.io/badge/CSS3-blue) [CSS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/style.css) 
 
-#### [HTML](https://github.com/guisacilotto/OutOfTunePiano/blob/main/index.html) 
-
-#### [CSS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/style.css) 
-
-#### [JS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/script.js)
+#### ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) [JS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/script.js)
 
 
 # 🛠️ Abrir e rodar o projeto
