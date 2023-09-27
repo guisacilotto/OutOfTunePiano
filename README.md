@@ -12,11 +12,14 @@
 #### [JS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/script.js)
 
 
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
+
 # 🛠️ Abrir e rodar o projeto
 
-Para rodar o projeto, acesse este LINK.
+Para rodar o projeto, 🔊[acesse aqui](https://dynamic-cendol-cf2ad7.netlify.app).
 
-![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
 
 
 
