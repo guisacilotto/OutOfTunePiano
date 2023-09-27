@@ -7,7 +7,7 @@
 
 #### [HTML](https://github.com/guisacilotto/OutOfTunePiano/blob/main/index.html) 
 
-#### [CSS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/style.css) 
+#### [CSS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/styles.css) 
 
 #### [JS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/script.js)
 
