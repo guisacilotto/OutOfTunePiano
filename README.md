@@ -20,7 +20,7 @@
 
 # 🛠️ Abrir e rodar o projeto
 
-Para rodar o projeto, 🔊[acesse aqui](https://dynamic-cendol-cf2ad7.netlify.app).
+Para rodar o projeto, [acesse aqui](https://dynamic-cendol-cf2ad7.netlify.app).
 
 
 
