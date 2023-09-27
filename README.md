@@ -4,7 +4,7 @@
 
 # 📁 Acesso ao projeto
 
-É possível acessar o [código fonte do projeto]: (OutOfTunePiano/pianodesafinado.js) ou baixá-lo.
+É possível acessar o ![código fonte do projeto]: (OutOfTunePiano/pianodesafinado.js) ou baixá-lo.
 
 # 🛠️ Abrir e rodar o projeto
 
