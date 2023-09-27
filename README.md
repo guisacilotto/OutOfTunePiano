@@ -4,7 +4,10 @@
 
 # 📁 Acesso ao projeto
 
-É possível acessar o código fonte do projeto ou baixá-lo.
+Abaixo, é possível acessar o código fonte do projeto ou baixá-lo.
+[HTML](https://github.com/guisacilotto/OutOfTunePiano/blob/main/index.html)
+[CSS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/style.css)
+[JAVASCRIPT](https://github.com/guisacilotto/OutOfTunePiano/blob/main/script.js)
 
 # 🛠️ Abrir e rodar o projeto
 
