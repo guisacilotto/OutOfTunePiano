@@ -2,7 +2,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![CSS](https://img.shields.io/badge/CSS3-blue) ![HTML](https://img.shields.io/badge/HTML5-orange)
 
-<https://github.com/guisacilotto/OutOfTunePiano/blob/main/img/piano.gif>
+
+![GIF](https://raw.githubusercontent.com/guisacilotto/OutOfTunePiano/main/img/piano.gif)
 
 
 # 📁 Código Fonte
