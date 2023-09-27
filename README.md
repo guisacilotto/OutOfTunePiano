@@ -1,4 +1,4 @@
-<h1>Piano Desafinado </h1>
+<h1>PIANO DESAFINADO</h1>
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
