@@ -5,6 +5,7 @@
 
 ![GIF](https://raw.githubusercontent.com/guisacilotto/OutOfTunePiano/main/img/piano.gif)
 
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 # 📁 Código Fonte
 
@@ -13,9 +14,6 @@
 #### [CSS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/styles.css) 
 
 #### [JS](https://github.com/guisacilotto/OutOfTunePiano/blob/main/script.js)
-
-
-![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 
 # 🛠️ Abrir e rodar o projeto
