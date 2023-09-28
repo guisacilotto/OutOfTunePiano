@@ -39,10 +39,8 @@ const removerEfeito = (letra) => {
 
 const ativarDiv = (evento) => {
   teclasPressionadas++;
-
-  // Atualizar a exibição do contador de teclas
   document.getElementById("contadorTeclas").textContent = `Teclas pressionadas: ${teclasPressionadas}`;
-
+  
   const letra = evento.type == "click" ? evento.target.id : evento.key.toUpperCase();
   const letraPressionada = sons.hasOwnProperty(letra);
   if (letraPressionada) {
